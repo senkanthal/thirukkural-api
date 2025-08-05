@@ -2,8 +2,8 @@
 
 A free, public REST API to explore the ancient Tamil classic **Thirukkural** – including its Paals (books), Athikaarams (chapters), and individual Kurals (couplets).
 
-- **Base URL:** `https://thirukkural.senkanthal.org`
-- **Mirror:** `https://kural.senkanthal.org`
+- **Base URL:** [thirukkural.senkanthal.org](https://thirukkural.senkanthal.org)
+- **Mirror:** [kural.senkanthal.org](https://kural.senkanthal.org)
 - **Format:** All responses are in JSON.
 - **Version:** 1.0.0
 
